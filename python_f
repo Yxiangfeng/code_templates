@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Python: 3.11
+# @Filename：${NAME}.py
+# @Time：${DATE} ${TIME}
+# @Author: WangSanmu
+# @mail: wang.64@foxmail.com
+
+    ${PACKAGE_IMPORTS}
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
